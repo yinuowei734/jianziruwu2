@@ -1,0 +1,8 @@
+# 固定浅色主题：即使系统开了深色模式，页面也不会被翻成暗色
+[theme]
+base = "light"
+primaryColor = "#B26B5E"
+backgroundColor = "#FBF1DE"
+secondaryBackgroundColor = "#F6EAD5"
+textColor = "#4B3B2B"
+font = "serif"
